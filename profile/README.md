@@ -26,6 +26,10 @@ Public repositories contain research code, documentation, and small example data
 
 Please cite the associated paper and archived dataset when reusing material. Each repository provides its own license and citation information.
 
+## Lab knowledge base
+
+The [M&M Flow Lab Wiki](https://github.com/MMFlowLab/.github/wiki) organizes group guidance by topic, including research workflows, data management, software, onboarding, publications, and the SOP catalogue. Full internal procedures are restricted to authorized lab members.
+
 ## Contact
 
 For current research, publications, and group information, visit the [M&M Flow Lab website](https://sauretlab.umd.edu/).
